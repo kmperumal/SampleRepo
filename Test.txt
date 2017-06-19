@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5252-6429
+
+ Directory of C:\Users\Varalakshmi\Documents\Mano\Software\GIT\Sample_Project
+
+06/19/2017  05:04 PM    <DIR>          .
+06/19/2017  05:04 PM    <DIR>          ..
+06/19/2017  05:04 PM    <DIR>          .git
+06/19/2017  05:04 PM                 0 Test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  923,660,460,032 bytes free
